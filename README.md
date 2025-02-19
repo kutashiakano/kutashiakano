@@ -7,7 +7,7 @@
 
   <div style="color: #ddd; font-size: 18px; margin-top: 10px;">
     <strong>17</strong> • <strong>Indonesian</strong> • <strong>Student Life</strong><br>
-    <strong>Currently:</strong> Learning Python Basics<br>
+    <strong>Currently:</strong> Learning Anything<br>
     <strong>Vibe:</strong> <em>Coquette meets Terminal</em>
   </div>
   
