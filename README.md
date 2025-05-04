@@ -33,8 +33,11 @@
     <a href="https://wa.me/6285150857272" style="text-decoration: none;">
       <img src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-ff93ac?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
+    <a href="https://instagram.com/zivly_san" style="text-decoration: none;">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Instagram:zivly_san-ff93ac?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
     <a href="https://instagram.com/kutashiakano" style="text-decoration: none;">
-      <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-ff93ac?style=for-the-badge&logo=instagram&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Instagram:kutashiakano-ff93ac?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
   </p>
   
