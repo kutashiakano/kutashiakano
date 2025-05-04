@@ -36,13 +36,22 @@
     <a href="https://wa.me/6285150857272" style="text-decoration: none;">
       <img src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-ff93ac?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
-    <a href="https://instagram.com/zivly_san" style="text-decoration: none;">
-      <img src="https://custom-icon-badges.demolab.com/badge/-Instagram:zivly_san-ff93ac?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
     <a href="https://instagram.com/kutashiakano" style="text-decoration: none;">
-      <img src="https://custom-icon-badges.demolab.com/badge/-Instagram:kutashiakano-ff93ac?style=for-the-badge&logo=instagram&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-ff93ac?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
   </p>
+  
+  <h3 style="color: #ff93ac;">Chess</h3>
+  <p>
+    <a href="https://chess.com/member/kutashiakano" style="text-decoration: none;">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Chess.com-ff93ac?style=for-the-badge&logo=chess&logoColor=white">
+    </a>
+    <a href="https://lichess.org/@/kutashiakano" style="text-decoration: none;">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Lichess-ff93ac?style=for-the-badge&logo=lichess&logoColor=white">
+    </a>
+  </p>
+  
+  <img src="https://chess-widget.vercel.app/api?username=kutashiakano&theme=pink" style="border-radius: 10px; margin-top: 10px;">
   
   <div style="margin-top: 20px;">
     <a href="https://kutashiakano.netlify.app/" style="text-decoration: none;">
