@@ -24,16 +24,13 @@
   <h3 style="color: #ff93ac;">GitHub Diary</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=kutashiakano&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=ff93ac&text_color=dddddd&icon_color=ff93ac&include_all_commits=true" style="border-radius: 10px;"/>
   
-  <pre style="color: #ff93ac; font-size: 16px; text-align: center;">
-     /\_/\  
-   ( o.o )
-   > ^ <
-- Purrfectly Coding...
-  </pre>
+  <div style="color: #ff93ac; font-size: 16px; text-align: center; margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF93AC&center=true&vCenter=true&width=435&lines=%2F%5C_%2F%5C;(%20o.o+);%3E+%5E+%3C;Purrfectly+Coding...;Meow~;Nya~;*purrs*;*taps+keyboard*" alt="ASCII Cat Animation" />
+</div>
   
   <h3 style="color: #ff93ac;">Connect With Me</h3>
   <p>
-    <a href="https://wa.me/6285147821942" style="text-decoration: none;">
+    <a href="https://wa.me/6285150857272" style="text-decoration: none;">
       <img src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-ff93ac?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
     <a href="https://instagram.com/kutashiakano" style="text-decoration: none;">
