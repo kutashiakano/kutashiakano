@@ -31,15 +31,24 @@
 - Purrfectly Coding...
   </pre>
   
-  <h3 style="color: #ff93ac;">Contact</h3>
+  <h3 style="color: #ff93ac;">Connect With Me</h3>
   <p>
     <a href="https://wa.me/6285150857272" style="text-decoration: none;">
       <img src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-ff93ac?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
     <a href="https://instagram.com/zivly_san" style="text-decoration: none;">
-      <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-ff93ac?style=for-the-badge&logo=instagram&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Instagram:zivly_san-ff93ac?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://instagram.com/kutashiakano" style="text-decoration: none;">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Instagram:kutashiakano-ff93ac?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
   </p>
+  
+  <div style="margin-top: 20px;">
+    <a href="https://kutashiakano.netlify.app/" style="text-decoration: none;">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Visit%20My%20Website-ff93ac?style=for-the-badge&logoColor=white&logo=globe-alt">
+    </a>
+  </div>
   
   <sub style="color: #ff93ac;">— Crafted with precision, passion, and a hint of feline grace —</sub>
 </div>
