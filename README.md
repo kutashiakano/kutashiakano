@@ -1,5 +1,5 @@
 <div align="center" style="background: #1a1a1a; padding: 30px; border-radius: 15px; box-shadow: 0 0 30px #ff93ac60; width: 90%; max-width: 1000px; margin: auto;">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/170481572/415962212-3bc98b6d-1081-414e-a8dc-fc169e20c0b0.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250223T060911Z&X-Amz-Expires=300&X-Amz-Signature=3757ab05b557d74da21b884679c8b0c34a801fd4eeda8dbc698e5ff2a65688b6&X-Amz-SignedHeaders=host" width="300" style="border-radius:15px;box-shadow:0 0 30px #ffb7d180;">
+  <img src="https://files.catbox.moe/cnw3w2.jpg" width="300" style="border-radius:15px;box-shadow:0 0 30px #ffb7d180;">
   
   <h2 style="font-family: 'Brush Script MT', cursive; color: #ff93ac; font-size: 36px;">Kutashi Akano Canzy</h2>
   
