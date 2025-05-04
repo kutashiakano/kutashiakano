@@ -33,7 +33,7 @@
   
   <h3 style="color: #ff93ac;">Connect With Me</h3>
   <p>
-    <a href="https://wa.me/6285150857272" style="text-decoration: none;">
+    <a href="https://wa.me/6285147821942" style="text-decoration: none;">
       <img src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-ff93ac?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
     <a href="https://instagram.com/kutashiakano" style="text-decoration: none;">
