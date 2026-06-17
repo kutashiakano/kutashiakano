@@ -1,51 +1,48 @@
-<div align="center" style="background: #1a1a1a; padding: 30px; border-radius: 15px; box-shadow: 0 0 30px #ff93ac60; width: 90%; max-width: 1000px; margin: auto;">
-  <img src="https://files.catbox.moe/cnw3w2.jpg" width="300" style="border-radius:15px;box-shadow:0 0 30px #ffb7d180;">
-  
-  <h2 style="font-family: 'Brush Script MT', cursive; color: #ff93ac; font-size: 36px;">Kutashi Akano Canzy</h2>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=42&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=snow+leopard+in+tech~;coding+with+soft+paws+%3C3;fluffy+but+dangerous+%3E%3A3;meowgic+happens+here!;backend+witchcraft+%E2%9C%A8;debugging+with+cat+energy~;always+purring+when+code+works~;hissing+at+bad+syntax+%3Ew%3C;live%2C+code%2C+nap%2C+repeat~" alt="Typing SVG" />
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=42&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=1200&lines=hi%2C+i'm+Kenzie+%F0%9F%91%8B;19+y%2Fo+%7C+Informatics+%7C+Universitas+Siber+Asia;back-end+dev+exploring+fullstack~" />
+</div>
 
-  <div style="color: #ddd; font-size: 18px; margin-top: 10px;">
-    <strong>17</strong> • <strong>Indonesian</strong> • <strong>Student Life</strong><br>
-    <strong>Currently:</strong> Learning Anything<br>
-    <strong>Vibe:</strong> <em>Coquette meets Terminal</em>
-  </div>
-  
-  <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #ff93ac, transparent); margin: 20px 0; width: 80%;">
+---
 
-  <h3 style="color: #ff93ac;">Tech Stack</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
-  </p>
-  
-  <h3 style="color: #ff93ac;">GitHub Diary</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=kutashiakano&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=ff93ac&text_color=dddddd&icon_color=ff93ac&include_all_commits=true" style="border-radius: 10px;"/>
-  
-  <pre style="color: #ff93ac; font-size: 16px; text-align: center;">
-     /\_/\  
-   ( o.o )
-   > ^ <
-- Purrfectly Coding...
-  </pre>
-  
-  <h3 style="color: #ff93ac;">Connect With Me</h3>
-  <p>
-    <a href="https://wa.me/6285147821942" style="text-decoration: none;">
-      <img src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-ff93ac?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-    <a href="https://instagram.com/kutashiakano" style="text-decoration: none;">
-      <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-ff93ac?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-  </p>
-  
-  <div style="margin-top: 20px;">
-    <a href="https://kutashiakano.netlify.app/" style="text-decoration: none;">
-      <img src="https://custom-icon-badges.demolab.com/badge/-Visit%20My%20Website-ff93ac?style=for-the-badge&logoColor=white&logo=globe-alt">
-    </a>
-  </div>
-  
-  <sub style="color: #ff93ac;">— Crafted with precision, passion, and a hint of feline grace —</sub>
+### About Me
+
+I'm still early in my IT journey, but genuinely passionate about building things.  
+Most of what I make here is **purely for fun** — no deadlines, no clients, just curiosity.
+
+I mostly work on **back-end** stuff, but I'm slowly venturing into **fullstack** territory.  
+If you find something useful, feel free to star the repo or contribute — it means a lot and helps me grow.
+
+> *Let's build something cool together.*
+
+---
+
+### what i'm learning
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### beyond the code
+
+```
+drawing  ·  cooking  ·  language learning  ·  astronomy  ·  editing
+```
+
+---
+
+<div align="center">
+  <sub>all projects here are made for fun — contributions & stars are always welcome ✨</sub>
 </div>
