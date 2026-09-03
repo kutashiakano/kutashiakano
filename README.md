@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://i.postimg.cc/2rCkryBP/20260809-003118.png?dl=1" style="border-radius: 15px; display: block;"/>
+    <img width="100%" src="https://i.postimg.cc/85cVQ8Ch/1778904298.jpg" style="border-radius: 15px; display: block;"/>
   </a>
   <br>
 </div>
